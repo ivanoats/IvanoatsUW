@@ -22,7 +22,7 @@ email:
 root: /ivanoats
 permalink: /blog/:year/:month/:day/:title/
 source: source
-destination: public/ivanoats
+destination: public
 plugins: plugins
 code_dir: downloads/code
 category_dir: blog/categories
@@ -75,7 +75,7 @@ delicious_user: ivanoats
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name: ivanoats
+disqus_short_name: ivanoatsuw
 
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id: UA-3487613-5
