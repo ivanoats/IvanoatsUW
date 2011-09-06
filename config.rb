@@ -5,7 +5,7 @@ project_type = :stand_alone
 http_path = "/ivanoats/"
 http_images_path = "/ivanoats/images"
 http_fonts_path = "/ivanoats/fonts"
-css_dir = "public/ivanoats/stylesheets"
+css_dir = "/ivanoats/stylesheets"
 
 # Local development paths
 sass_dir = "sass"
