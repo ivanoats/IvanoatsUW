@@ -4,7 +4,7 @@
 
 url: http://staff.washington.edu/ivanoats
 title: Ivan Storck at University of Washington
-subtitle: Notes on developing software for the Center for Commercialization
+subtitle: Notes on entrepreneurship and developing software for the Center for Commercialization
 author: Ivan Storck
 simple_search: http://google.com/search
 
@@ -22,7 +22,7 @@ email:
 root: /ivanoats
 permalink: /blog/:year/:month/:day/:title/
 source: source
-destination: public
+destination: public/ivanoats
 plugins: plugins
 code_dir: downloads/code
 category_dir: blog/categories
