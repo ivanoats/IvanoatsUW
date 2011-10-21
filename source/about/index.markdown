@@ -5,6 +5,12 @@ comments: false
 sharing: true
 footer: true
 ---
+<div id="photo">
+  <script type="text/javascript" language="javascript" src="http://api.flickr.com/services/rest/?format=json&sort=random&method=flickr.photos.search&tags=ivanoats&source=user&user_id=88538484@N00&tag_mode=all&api_key=d394c32b682dca628aef9a0cabc4a611">
+  </script>
+</div>
+
+*(refresh the page for a different picture)*
 
 Ivan Storck is a Web Developer at the [University of Washington Center
 for Commercialization](http://depts.washington.edu/uwc4c)
