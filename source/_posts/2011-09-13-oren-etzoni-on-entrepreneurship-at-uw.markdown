@@ -13,6 +13,9 @@ Notes from his lecture today. Check out the entire [lecture series](http://depts
 
 #### Sponsored by the Center for Commercialization (C4C) ####
 
+> The UW Presidential Entrepreneurial Faculty Fellows lecture series is designed to inspire UW researchers to pursue commercialization of their innovations by showcasing UW Faculty who have succeeded in translating their research into products and therapies, initiated groundbreaking programs for translation, or established model collaborations with industry. [Read more](http://www.uwc4c.com/for-researchers/entrepreneurial-faculty-fellows/)
+
+
 <img style="float:left; margin: 0 10px 10px 0" src="http://depts.washington.edu/uwc4c/lectures/oren.jpg" />
 
 "A variety of personality types can lead to success...You don't have to study CS at Harvard"
@@ -22,6 +25,9 @@ Notes from his lecture today. Check out the entire [lecture series](http://depts
 Been kicked out of various business clubs in Seattle for not wearing the proper attire. 
 
 Genius Drive Charisma are important, but so are being nosy, and not taking no for an answer. Having the energy and enthusiasm for constantly opening the question.
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/jb1nkcK-1Jc" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="http://www.youtube.com/embed/c8HtX-Crp-k" frameborder="0" allowfullscreen></iframe>
 
 Inventor of FareCast. 
 
