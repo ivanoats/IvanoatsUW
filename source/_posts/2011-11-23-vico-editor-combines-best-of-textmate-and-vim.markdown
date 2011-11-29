@@ -3,7 +3,7 @@ layout: post
 title: "Vico Editor Combines Best of TextMate and Vim"
 date: 2011-11-23 09:39
 comments: true
-categories: 
+categories: editors ruby rspec vim textmate 
 ---
 
 I'm in love with a new text editor. It's called [Vico](http://vicoapp.com). For Vim fans, you have all your comon keybindings for blazingly fast editing. For TextMate fans, you've got all your bundles and snippets. It really is the best of both worlds. 
