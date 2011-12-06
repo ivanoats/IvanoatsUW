@@ -6,7 +6,7 @@ comments: true
 categories: rspec, email, ruby on rails, testing
 ---
 
-{% img left /images/nospam.jpg 164 200 %} You may have known that Ruby on Rails can protect email addresses that you have on your web pages with the mail_to helper. But how do you test email obfuscation in your RSpec view tests?
+{% img left /images/nospam.jpg 164 200 %} You may have known that Ruby on Rails can protect email addresses that you have on your web pages with the [mail_to](http://api.rubyonrails.org/classes/ActionView/Helpers/UrlHelper.html#method-i-mail_to) view helper. But how do you test email obfuscation in your RSpec view tests?
 
 To obfuscate an email address in a rails view, you can simply add encode: "javascript" to your mail_to helper.
 
@@ -14,7 +14,8 @@ To obfuscate an email address in a rails view, you can simply add encode: "javas
 mail_to "you@example.com","email me", encode: "javascript"
 {% endcodeblock %}
 
-To test this, I created a method in my spec/spec_helper.rb file:
+To test this, I created a method in my spec/spec_helper.rb file. This method goes through each character (byte) of the string containing the email address, and calls the [sprintf](http://apidock.com/ruby/Kernel/sprintf) method to format the character in the way that the javascript decoder in rails can read.
+
 {% codeblock email encoder to include in spec_helper.rb lang:ruby %}
   def encode_email(email)
       # copied escape method from:
