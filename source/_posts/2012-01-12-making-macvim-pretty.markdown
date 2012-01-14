@@ -9,6 +9,7 @@ categories: editors programming macvim vim
 The holy editor wars. Almost everyone has their favorite, and your colleague, conference mate, or cellmate will rabidly talk your ear off about one editor versus another. I have to admit, I bounce back and forth between TextMate and MacVim, and am closely watching my new up and coming favorite, [Vico](http://vicoapp.com).
 
 Lately I've been favoring MacVim. Especially with these modifications I'm about to show you that make it... pretty!
+
 {%img /images/macvim_screenshot.gif %}
 
 First, there is [Alloy's MacVim fork](http://github.com/alloy/macvim). It gives you a nice Mac-like sidebar, project drawer - just like TextMate. The easiest way I found to install Alloy's fork is to use the normal homebrew recipe for macvim, but edit it, and point it to a new tarball that you've created. 
