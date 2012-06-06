@@ -7,10 +7,8 @@ footer: true
 ---
 
 <div id="photo">
-<img
-src="http://farm2.staticflickr.com/1323/1434829015_4f09bce86a_m.jpg">
+<img src="http://farm2.staticflickr.com/1323/1434829015_4f09bce86a_m.jpg">
 </div>
-
 
 Ivan Storck is a Web Developer at the [University of Washington Center
 for Commercialization](http://depts.washington.edu/uwc4c)
