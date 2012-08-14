@@ -26,8 +26,8 @@ Because each Resource in ActiveAdmin (meaning table in the database,
 or rails model) has a controller, you can 
 [modify the controller](http://activeadmin.info/docs/8-custom-actions.html#modify_the_controller).
 What I did above was just add to the params array a key called ```order``` with
-a value of ```name_asc``` - meaning I wanted my widgets sort order to by name,
-ascending. 
+a value of ```name_asc``` - meaning I wanted my philosoraptors to be sorted in 
+order to by name, ascending (from a to z). 
 
 You can find out these order key values by looking at the end of 
 the URL in your browser, in Active Admin. The query string will be everything 
