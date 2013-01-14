@@ -12,6 +12,10 @@ footer: true
 
 Ivan Storck is a lecturer for [University of Washington Professional and Continuing Education](http://www.pce.uw.edu/) [Ruby Certificate Program](http://www.pce.uw.edu/certificates/ruby-programming.html)
 
+Ivan has taught professionally since 2001 and helped clients with Ruby on Rails since 2005. He's been involved in several startups, including recently selling [his own](http://sustainablewebsites.com).
+
+> "I like to get to know my students unique strengths, and tailor my teaching to fit. Ruby, Rails, and the community inspire me every day, and I love to share that enthusiasm!"
+
 For more info on Ivan, please see his personal sites:
 
 * [Ivan's Profile Site](http://ivanoats.com)
