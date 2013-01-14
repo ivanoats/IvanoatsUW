@@ -10,8 +10,7 @@ footer: true
 <img src="http://farm2.staticflickr.com/1323/1434829015_4f09bce86a_m.jpg">
 </div>
 
-Ivan Storck is a Web Developer at the [University of Washington Center
-for Commercialization](http://depts.washington.edu/uwc4c)
+Ivan Storck is a lecturer for [University of Washington Professional and Continuing Education](http://www.pce.uw.edu/) [Ruby Certificate Program](http://www.pce.uw.edu/certificates/ruby-programming.html)
 
 For more info on Ivan, please see his personal sites:
 
@@ -19,7 +18,7 @@ For more info on Ivan, please see his personal sites:
 * [Ivan's blog](http://ivanenviroman.com)
 * [Ivan on Twitter](http://twitter.com/ivanoats)
 
-Call ivan at (+1) 206-685-1741 or email him at: 
+Call ivan at (+1) 206-452-0652 x1 or email him at: 
 <script type="text/javascript">document.write(
 "vinabngf@hj.rqh".replace(/[a-zA-Z]/g, function(c){
 return String.fromCharCode((c <= "Z" ? 90 : 122) >=
