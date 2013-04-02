@@ -64,15 +64,11 @@ github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-<<<<<<< HEAD
 twitter_user: ivanoats
 twitter_tweet_count: 6
 twitter_show_replies: false
 twitter_follow_button: true
 twitter_show_follower_count: false
-=======
-twitter_user:
->>>>>>> 75cc24c8d602d509e6b272db983489090595f001
 twitter_tweet_button: true
 
 # Google +1
