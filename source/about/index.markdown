@@ -10,7 +10,7 @@ footer: true
 <img src="http://farm2.staticflickr.com/1323/1434829015_4f09bce86a_m.jpg">
 </div>
 
-Ivan Storck is a lecturer for [University of Washington Professional and Continuing Education](http://www.pce.uw.edu/) [Ruby Certificate Program](http://www.pce.uw.edu/certificates/ruby-programming.html)
+Ivan Storck is a curriculum developer and instructor for [Code Fellows](http://codefellows.org) and lecturer for [University of Washington Professional and Continuing Education](http://www.pce.uw.edu/) [Ruby Certificate Program](http://www.pce.uw.edu/certificates/ruby-programming.html)
 
 Ivan has taught professionally since 2001 and helped clients with Ruby on Rails since 2005. He's been involved in several startups, including recently selling [his own](http://sustainablewebsites.com).
 
