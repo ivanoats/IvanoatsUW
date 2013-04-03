@@ -11,7 +11,7 @@ categories: babushka chef deployment servers
 
 At the [UW center for commercialization](http://depts.washington.edu/uwc4c) there are lots and lots of projects to work on. The mission is encouraging new companies, and each one may need a website. There are also many internal projects. We need to spin up sites and servers rapidly, and provide each project with a standard environment and good base system. While we have had success with hosting multiple sites on a [VMWare CloudFoundry](http://cloudfoundry.org/) server for simple sites, for others we need to have an environment that supports SSL and other more uniquely customizable configuration options. The challenge is how to do this process well, and make it easily repeatable.
  
-<img style="float:right; margin: 0 0 10px 15px; height: 100px" src="http://babushka.me/images/babushka-logo.png" />
+<img style="float:right; margin: 0 0 10px 15px; height: 100px" src="/images/babushka.png" />
 Enter [Babushka](http://babushka.me/) and [Chef](http://www.opscode.com/chef/). Actually, [Ben Hoskings](http://benhoskin.gs/) should have called Babushka "sous-chef", because it's extremely helpful to use, to get ready for Chef. Even better, it can also help set up your workstations, such as your mac, as well as your servers.
 
 Quoting Ben about Babushka vs. Chef (or Puppet): 
