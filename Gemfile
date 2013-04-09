@@ -2,7 +2,6 @@ source "http://rubygems.org"
 
 group :development do
   gem 'rake', '~> 0.9'
-  gem 'rack', '~> 1.4.1'
   gem 'jekyll', '~> 0.12'
   gem 'rdiscount', '~> 1.6.8'
   gem 'pygments.rb', '~> 0.3.4'
@@ -18,4 +17,4 @@ group :development do
   gem 'albino', "~> 1.3"
 end
 
-gem 'sinatra', '~> 1.3.5'
+gem 'sinatra', '~> 1.4.2'
