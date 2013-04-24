@@ -8,7 +8,7 @@ footer: true
 ---
 
 I prefer [Screenhero](for pair programming). I also use
-[Join.me](http://join.me),
+[Join.me](http://join.me/ivanstorck),
 [Google Hangout](https://plus.google.com/u/2/101935213310255844269), or
 [Skype](callto://ivanoats).
 
