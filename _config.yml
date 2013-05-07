@@ -43,8 +43,6 @@ rdiscount:
   extensions:
     - autolink
     - footnotes
-    - generate_toc
-    - superscript
     - smart
 >>>>>>> 11a1ba6... Updated RDiscount, added footnotes and other extensions
 pygments: false # default python pygments have been replaced by pygments.rb
