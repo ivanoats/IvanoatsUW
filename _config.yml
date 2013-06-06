@@ -33,7 +33,6 @@ destination: public/ivanoats
 plugins: plugins
 code_dir: downloads/code
 category_dir: blog/categories
-<<<<<<< HEAD
 markdown: redcarpet2
 redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "striketrhough", "superscript"]
