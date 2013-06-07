@@ -9,8 +9,10 @@ footer: true
 
 I prefer [Screenhero](for pair programming). I also use
 [Join.me](http://join.me/ivanstorck),
-[Google Hangout](https://plus.google.com/u/2/101935213310255844269), or
-[Skype](callto://ivanoats).
+[Google Hangout](https://plus.google.com/u/2/101935213310255844269),
+[Skype](callto://ivanoats), or
+[ScreenX.tv](http://screenx.tv/ivanstorck) if you're a
+[vim](http://www.vim.org)mer.
 
 
 <span id="sh_button_div"></span>
