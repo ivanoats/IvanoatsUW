@@ -33,9 +33,20 @@ destination: public/ivanoats
 plugins: plugins
 code_dir: downloads/code
 category_dir: blog/categories
+<<<<<<< HEAD
 markdown: redcarpet2
 redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "striketrhough", "superscript"]
+=======
+markdown: rdiscount
+rdiscount:
+  extensions:
+    - autolink
+    - footnotes
+    - generate_toc
+    - superscript
+    - smart
+>>>>>>> 11a1ba6... Updated RDiscount, added footnotes and other extensions
 pygments: false # default python pygments have been replaced by pygments.rb
 
 paginate: 10          # Posts per page on the blog index
