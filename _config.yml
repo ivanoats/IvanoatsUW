@@ -36,14 +36,6 @@ category_dir: blog/categories
 markdown: redcarpet2
 redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "striketrhough", "superscript"]
-=======
-markdown: rdiscount
-rdiscount:
-  extensions:
-    - autolink
-    - footnotes
-    - smart
->>>>>>> 11a1ba6... Updated RDiscount, added footnotes and other extensions
 pygments: false # default python pygments have been replaced by pygments.rb
 
 paginate: 10          # Posts per page on the blog index
