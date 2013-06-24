@@ -3,7 +3,7 @@
 # ----------------------- #
 
 url: http://faculty.washington.edu/ivanoats
-title: Ivan Storck at University of Washington
+title: Ivan Storck
 subtitle: Notes on coding Ruby, Rails, Teaching, and Entrepreneurship
 author: Ivan Storck
 simple_search: http://google.com/search
@@ -33,11 +33,16 @@ destination: public/ivanoats
 plugins: plugins
 code_dir: downloads/code
 category_dir: blog/categories
-markdown: redcarpet2
-redcarpet:
-  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "striketrhough", "superscript"]
+#markdown: redcarpet2
+#redcarpet:
+#  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "striketrhough", "superscript"]
+markdown: rdiscount
+rdiscount:
+  extensions:
+    - autolink
+    - footnotes
+    - smart
 pygments: false # default python pygments have been replaced by pygments.rb
-
 paginate: 10          # Posts per page on the blog index
 pagination_dir: blog  # Directory base for pagination URLs eg. /blog/page/2/
 recent_posts: 5       # Posts in the sidebar Recent Posts section
