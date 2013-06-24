@@ -42,7 +42,7 @@ class Jekyll::MarkdownConverter
   end
 
   def convert(content)
-    return super unless @config['markdown'] == 'redcarpet2'
+    #return super unless @config['markdown'] == 'redcarpet2'
     markdown.render(content)
   end
 end
