@@ -12,4 +12,5 @@ source/stylesheets/screen.css
 vendor
 node_modules
 tags
-_code_cache/
+_code_cache/source/files/raringruby.box
+public/ivanoats/files/raringruby.box
