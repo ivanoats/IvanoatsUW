@@ -1,4 +1,4 @@
-source "http://rubygems.org"
+source "https://rubygems.org"
 
 group :development do
   gem 'rake', '~> 10.1'
@@ -8,6 +8,7 @@ group :development do
   gem 'RedCloth', '~> 4.2.9'
   gem 'haml', '~> 3.1.7'
   gem 'compass', '~> 0.12.2'
+  gem 'sass', '~> 3.2'
   gem 'sass-globbing', '~> 1.0.0'
   gem 'rubypants', '~> 0.2.0'
   gem 'rb-fsevent', '~> 0.9'
@@ -15,6 +16,7 @@ group :development do
   gem 'liquid', '~> 2.3.0'
   gem 'redcarpet', "~> 2.2"
   gem 'albino', "~> 1.3"
+  gem 'directory_watcher', '1.4.1'
 end
 
 gem 'sinatra', '~> 1.4.2'

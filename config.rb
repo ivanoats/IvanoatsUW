@@ -8,6 +8,8 @@ http_path = "/ivanoats/"
 http_images_path = "/ivanoats/images"
 http_fonts_path = "/ivanoats/fonts"
 css_dir = "/ivanoats/stylesheets"
+http_generated_images_path = "/images"
+http_fonts_path = "/fonts"
 
 # Local development paths
 sass_dir = "sass"
