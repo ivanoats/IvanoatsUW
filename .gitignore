@@ -1,4 +1,6 @@
 .bundle
+_config.yml.orig
+_cache
 .DS_Store
 .sass-cache
 .gist-cache
@@ -9,8 +11,10 @@ sass.old
 source.old
 source/_stash
 source/stylesheets/screen.css
+source/files/raringruby.box
 vendor
 node_modules
 tags
 _code_cache/source/files/raringruby.box
 public/ivanoats/files/raringruby.box
+_code_cache/
