@@ -21,11 +21,11 @@ I frequently get asked how the UW certificate differs from Code Fellows' Ruby on
 * 8 weeks total
 * 3 hours per day class time 
 * 3 hours per day lab time
-* a couple more hours of homework at night/weekend
-* guest lectures on career building, interviewing practice, resume workshop
-* more computer science fundamentals
-* more javascript
-* job guarantee
+* A couple more hours of homework at night/weekend
+* Guest lectures on career building, interviewing practice, resume workshop
+* More computer science fundamentals
+* More javascript
+* Job guarantee
 
 As far as Rails content, because both Rails and Advanced Rails are taught by the same team of Brook and me, the two options are very similar.
 
